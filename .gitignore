@@ -2,3 +2,4 @@ Data
 *.zip
 *.pyc
 *~
+.ipynb_checkpoints
